@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Daniel Wagner
+Build-Jdk: 11.0.1
+Implementation-Title: intro-spring-boot
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: br.com.devmedia
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/intro-spring-b
+ oot/
+Created-By: Maven Integration for Eclipse
+
